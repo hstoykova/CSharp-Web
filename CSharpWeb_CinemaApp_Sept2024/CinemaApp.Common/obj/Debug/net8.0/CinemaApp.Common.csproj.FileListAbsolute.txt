@@ -1,0 +1,12 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Common\bin\Debug\net8.0\CinemaApp.Common.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Common\bin\Debug\net8.0\CinemaApp.Common.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Common\bin\Debug\net8.0\CinemaApp.Common.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Common\obj\Debug\net8.0\CinemaApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Common\obj\Debug\net8.0\CinemaApp.Common.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Common\obj\Debug\net8.0\CinemaApp.Common.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Common\obj\Debug\net8.0\CinemaApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Common\obj\Debug\net8.0\CinemaApp.Common.sourcelink.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Common\obj\Debug\net8.0\CinemaApp.Common.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Common\obj\Debug\net8.0\refint\CinemaApp.Common.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Common\obj\Debug\net8.0\CinemaApp.Common.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Common\obj\Debug\net8.0\ref\CinemaApp.Common.dll

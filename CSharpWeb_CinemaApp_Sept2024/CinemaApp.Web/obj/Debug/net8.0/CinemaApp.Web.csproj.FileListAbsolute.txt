@@ -28,3 +28,10 @@ C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\Cin
 C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Web\obj\Debug\net8.0\CinemaApp.Web.pdb
 C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Web\obj\Debug\net8.0\CinemaApp.Web.genruntimeconfig.cache
 C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Web\obj\Debug\net8.0\ref\CinemaApp.Web.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Web\obj\Debug\net8.0\CinemaApp.Web.sourcelink.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Web\obj\Debug\net8.0\CinemaApp.Web.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Web\bin\Debug\net8.0\CinemaApp.Web.ViewModels.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Web\bin\Debug\net8.0\CinemaApp.Web.ViewModels.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Web\obj\Debug\net8.0\CinemaAp.3188EE5A.Up2Date
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Web\bin\Debug\net8.0\CinemaApp.Common.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Web\bin\Debug\net8.0\CinemaApp.Common.pdb
