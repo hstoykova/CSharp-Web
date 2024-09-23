@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5D413E55-5D6F-4DED-B31D-8CDB1C80DCC4}|CinemaApp.Web\\CinemaApp.Web.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\csharpweb_cinemaapp_sept2024\\cinemaapp.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D413E55-5D6F-4DED-B31D-8CDB1C80DCC4}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D413E55-5D6F-4DED-B31D-8CDB1C80DCC4}|CinemaApp.Web\\CinemaApp.Web.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\csharpweb_cinemaapp_sept2024\\cinemaapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D413E55-5D6F-4DED-B31D-8CDB1C80DCC4}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F32ED0-280E-4F7F-98AC-4E8340FB85E9}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\csharpweb_cinemaapp_sept2024\\cinemaapp.data\\cinemaapp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88F32ED0-280E-4F7F-98AC-4E8340FB85E9}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\cinemaapp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F32ED0-280E-4F7F-98AC-4E8340FB85E9}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\csharpweb_cinemaapp_sept2024\\cinemaapp.data\\configuration\\movieconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F32ED0-280E-4F7F-98AC-4E8340FB85E9}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\configuration\\movieconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0422E848-1814-46F5-858C-0998A5B50C50}|CinemaApp.Common\\CinemaApp.Common.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\csharpweb_cinemaapp_sept2024\\cinemaapp.common\\applicationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0422E848-1814-46F5-858C-0998A5B50C50}|CinemaApp.Common\\CinemaApp.Common.csproj|solutionrelative:cinemaapp.common\\applicationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0422E848-1814-46F5-858C-0998A5B50C50}|CinemaApp.Common\\CinemaApp.Common.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\csharpweb_cinemaapp_sept2024\\cinemaapp.common\\entityvalidationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0422E848-1814-46F5-858C-0998A5B50C50}|CinemaApp.Common\\CinemaApp.Common.csproj|solutionrelative:cinemaapp.common\\entityvalidationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F32ED0-280E-4F7F-98AC-4E8340FB85E9}|CinemaApp.Data\\CinemaApp.Data.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\csharpweb_cinemaapp_sept2024\\cinemaapp.data\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F32ED0-280E-4F7F-98AC-4E8340FB85E9}|CinemaApp.Data\\CinemaApp.Data.csproj|solutionrelative:cinemaapp.data\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{42CF8989-3E30-4808-B179-BE9969671F49}|CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\csharpweb_cinemaapp_sept2024\\cinemaapp.data.models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42CF8989-3E30-4808-B179-BE9969671F49}|CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj|solutionrelative:cinemaapp.data.models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D413E55-5D6F-4DED-B31D-8CDB1C80DCC4}|CinemaApp.Web\\CinemaApp.Web.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\csharpweb_cinemaapp_sept2024\\cinemaapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5D413E55-5D6F-4DED-B31D-8CDB1C80DCC4}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0422E848-1814-46F5-858C-0998A5B50C50}|CinemaApp.Common\\CinemaApp.Common.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\csharpweb_cinemaapp_sept2024\\cinemaapp.common\\applicationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0422E848-1814-46F5-858C-0998A5B50C50}|CinemaApp.Common\\CinemaApp.Common.csproj|solutionrelative:cinemaapp.common\\applicationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D413E55-5D6F-4DED-B31D-8CDB1C80DCC4}|CinemaApp.Web\\CinemaApp.Web.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\csharpweb_cinemaapp_sept2024\\cinemaapp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -33,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E265F56F-604F-43DB-AAB7-6213EBE35C3F}|CinemaApp.Web.ViewModels\\CinemaApp.Web.ViewModels.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\csharpweb_cinemaapp_sept2024\\cinemaapp.web.viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E265F56F-604F-43DB-AAB7-6213EBE35C3F}|CinemaApp.Web.ViewModels\\CinemaApp.Web.ViewModels.csproj|solutionrelative:cinemaapp.web.viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D413E55-5D6F-4DED-B31D-8CDB1C80DCC4}|CinemaApp.Web\\CinemaApp.Web.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\csharpweb_cinemaapp_sept2024\\cinemaapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D413E55-5D6F-4DED-B31D-8CDB1C80DCC4}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,6 +71,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CinemaApp.Web\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\appsettings.Development.json",
+              "RelativeToolTip": "CinemaApp.Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T07:55:50.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntityValidationConstants.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Common\\EntityValidationConstants.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Common\\EntityValidationConstants.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Common\\EntityValidationConstants.cs",
+              "RelativeToolTip": "CinemaApp.Common\\EntityValidationConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:05:34.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Data\\Configuration\\MovieConfiguration.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\Configuration\\MovieConfiguration.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Data\\Configuration\\MovieConfiguration.cs",
+              "RelativeToolTip": "CinemaApp.Data\\Configuration\\MovieConfiguration.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:03:23.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CinemaApp.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Data\\CinemaApp.Data.csproj",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\CinemaApp.Data.csproj",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Data\\CinemaApp.Data.csproj",
+              "RelativeToolTip": "CinemaApp.Data\\CinemaApp.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T06:57:41.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CinemaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Data\\CinemaDbContext.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Data\\CinemaDbContext.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Data\\CinemaDbContext.cs",
+              "RelativeToolTip": "CinemaApp.Data\\CinemaDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:58:02.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Data.Models\\Movie.cs",
               "RelativeDocumentMoniker": "CinemaApp.Data.Models\\Movie.cs",
@@ -58,12 +139,11 @@
               "RelativeToolTip": "CinemaApp.Data.Models\\Movie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T18:34:41.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T18:34:41.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ApplicationConstants.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Common\\ApplicationConstants.cs",
               "RelativeDocumentMoniker": "CinemaApp.Common\\ApplicationConstants.cs",
@@ -71,25 +151,11 @@
               "RelativeToolTip": "CinemaApp.Common\\ApplicationConstants.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T18:14:05.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T18:14:05.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "CinemaApp.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "CinemaApp.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T18:01:12.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "CinemaApp.Web\\Views\\Shared\\Error.cshtml",
@@ -97,12 +163,11 @@
               "RelativeToolTip": "CinemaApp.Web\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T17:39:55.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T17:39:55.088Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "CinemaApp.Web\\Views\\_ViewImports.cshtml",
@@ -110,12 +175,35 @@
               "RelativeToolTip": "CinemaApp.Web\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T17:39:39.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T17:39:39.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\Program.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\Program.cs",
+              "RelativeToolTip": "CinemaApp.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:05:16.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CinemaApp.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CinemaApp.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T18:01:12.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web.ViewModels\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "CinemaApp.Web.ViewModels\\ErrorViewModel.cs",
@@ -123,12 +211,11 @@
               "RelativeToolTip": "CinemaApp.Web.ViewModels\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T17:34:38.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T17:34:38.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CinemaApp.Web\\Views\\Shared\\_Layout.cshtml",
@@ -136,24 +223,11 @@
               "RelativeToolTip": "CinemaApp.Web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-22T16:54:01.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T16:54:01.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\Program.cs",
-              "RelativeDocumentMoniker": "CinemaApp.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\Program.cs",
-              "RelativeToolTip": "CinemaApp.Web\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T14:05:16.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CinemaApp.Web\\Controllers\\HomeController.cs",
@@ -161,8 +235,7 @@
               "RelativeToolTip": "CinemaApp.Web\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwBgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T14:05:10.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T14:05:10.96Z"
             }
           ]
         }

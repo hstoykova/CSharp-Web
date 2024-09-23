@@ -1513,21 +1513,6 @@
           "bin/placeholder/CinemaApp.Common.dll": {}
         }
       },
-      "CinemaApp.Data/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "CinemaApp.Common": "1.0.0",
-          "CinemaApp.Data.Models": "1.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8"
-        },
-        "compile": {
-          "bin/placeholder/CinemaApp.Data.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CinemaApp.Data.dll": {}
-        }
-      },
       "CinemaApp.Data.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -1536,16 +1521,6 @@
         },
         "runtime": {
           "bin/placeholder/CinemaApp.Data.Models.dll": {}
-        }
-      },
-      "CinemaApp.Web.ViewModels/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/CinemaApp.Web.ViewModels.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CinemaApp.Web.ViewModels.dll": {}
         }
       }
     }
@@ -4147,29 +4122,18 @@
       "path": "../CinemaApp.Common/CinemaApp.Common.csproj",
       "msbuildProject": "../CinemaApp.Common/CinemaApp.Common.csproj"
     },
-    "CinemaApp.Data/1.0.0": {
-      "type": "project",
-      "path": "../CinemaApp.Data/CinemaApp.Data.csproj",
-      "msbuildProject": "../CinemaApp.Data/CinemaApp.Data.csproj"
-    },
     "CinemaApp.Data.Models/1.0.0": {
       "type": "project",
       "path": "../CinemaApp.Data.Models/CinemaApp.Data.Models.csproj",
       "msbuildProject": "../CinemaApp.Data.Models/CinemaApp.Data.Models.csproj"
-    },
-    "CinemaApp.Web.ViewModels/1.0.0": {
-      "type": "project",
-      "path": "../CinemaApp.Web.ViewModels/CinemaApp.Web.ViewModels.csproj",
-      "msbuildProject": "../CinemaApp.Web.ViewModels/CinemaApp.Web.ViewModels.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "CinemaApp.Common >= 1.0.0",
-      "CinemaApp.Data >= 1.0.0",
-      "CinemaApp.Web.ViewModels >= 1.0.0",
-      "Microsoft.EntityFrameworkCore.Tools >= 8.0.8",
-      "Microsoft.Extensions.DependencyInjection >= 8.0.0"
+      "CinemaApp.Data.Models >= 1.0.0",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.8",
+      "Microsoft.EntityFrameworkCore.Tools >= 8.0.8"
     ]
   },
   "packageFolders": {
@@ -4179,11 +4143,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\CinemaApp.Web.csproj",
-      "projectName": "CinemaApp.Web",
-      "projectPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\CinemaApp.Web.csproj",
+      "projectUniqueName": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Data\\CinemaApp.Data.csproj",
+      "projectName": "CinemaApp.Data",
+      "projectPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Data\\CinemaApp.Data.csproj",
       "packagesPath": "C:\\Users\\hstoykova5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\obj\\",
+      "outputPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4208,11 +4172,8 @@
             "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Common\\CinemaApp.Common.csproj": {
               "projectPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Common\\CinemaApp.Common.csproj"
             },
-            "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Data\\CinemaApp.Data.csproj": {
-              "projectPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Data\\CinemaApp.Data.csproj"
-            },
-            "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web.ViewModels\\CinemaApp.Web.ViewModels.csproj": {
-              "projectPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web.ViewModels\\CinemaApp.Web.ViewModels.csproj"
+            "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj": {
+              "projectPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Data.Models\\CinemaApp.Data.Models.csproj"
             }
           }
         }
@@ -4232,15 +4193,15 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": {
+            "target": "Package",
+            "version": "[8.0.8, )"
+          },
           "Microsoft.EntityFrameworkCore.Tools": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
             "version": "[8.0.8, )"
-          },
-          "Microsoft.Extensions.DependencyInjection": {
-            "target": "Package",
-            "version": "[8.0.0, )"
           }
         },
         "imports": [
@@ -4255,9 +4216,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

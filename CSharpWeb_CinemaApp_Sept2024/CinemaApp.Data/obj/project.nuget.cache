@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cX12RO5PN5k=",
+  "dgSpecHash": "oDwoP3tQ8+U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\CinemaApp.Web.csproj",
+  "projectFilePath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Data\\CinemaApp.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hstoykova5\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\hstoykova5\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
