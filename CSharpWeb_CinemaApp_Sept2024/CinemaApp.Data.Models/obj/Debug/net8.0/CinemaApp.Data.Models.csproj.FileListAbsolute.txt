@@ -1,0 +1,12 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Data.Models\bin\Debug\net8.0\CinemaApp.Data.Models.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Data.Models\bin\Debug\net8.0\CinemaApp.Data.Models.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Data.Models\bin\Debug\net8.0\CinemaApp.Data.Models.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Data.Models\obj\Debug\net8.0\CinemaApp.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Data.Models\obj\Debug\net8.0\CinemaApp.Data.Models.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Data.Models\obj\Debug\net8.0\CinemaApp.Data.Models.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Data.Models\obj\Debug\net8.0\CinemaApp.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Data.Models\obj\Debug\net8.0\CinemaApp.Data.Models.sourcelink.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Data.Models\obj\Debug\net8.0\CinemaApp.Data.Models.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Data.Models\obj\Debug\net8.0\refint\CinemaApp.Data.Models.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Data.Models\obj\Debug\net8.0\CinemaApp.Data.Models.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Data.Models\obj\Debug\net8.0\ref\CinemaApp.Data.Models.dll

@@ -7,13 +7,14 @@ namespace CinemaApp.Web
     {
         public static void Main(string[] args)
         {
-            var builder = WebApplication.CreateBuilder(args);
+            WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
+            string connectionString = builder.Configuration.GetConnectionString("SQLServer");
 
             // Add services to the container.
             builder.Services.AddDbContext<CinemaDbContext>(options =>
             {
                 // OnConfiguration
-                options.UseSqlServer();
+                options.UseSqlServer(connectionString);
             }
             );
 
@@ -27,6 +28,7 @@ namespace CinemaApp.Web
                 app.UseExceptionHandler("/Home/Error"); //DO NOT USE IT IN PRODUCTION
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
+                
             }
 
             app.UseHttpsRedirection();
