@@ -22,6 +22,62 @@ namespace CinemaApp.Data.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("CinemaApp.Data.Models.Cinema", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Location")
+                        .IsRequired()
+                        .HasMaxLength(85)
+                        .HasColumnType("nvarchar(85)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Cinemas", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("778bb237-b04f-4914-aed8-85542dbf2804"),
+                            Location = "Sofia",
+                            Name = "Cinema city"
+                        },
+                        new
+                        {
+                            Id = new Guid("1d389578-f51b-420a-8c05-8d20ed2a5ef5"),
+                            Location = "Plovdiv",
+                            Name = "Cinema city"
+                        },
+                        new
+                        {
+                            Id = new Guid("c862344c-6c44-4e5f-84ea-efa1cfbcb231"),
+                            Location = "Varna",
+                            Name = "Cinemax"
+                        });
+                });
+
+            modelBuilder.Entity("CinemaApp.Data.Models.CinemaMovie", b =>
+                {
+                    b.Property<Guid>("CinemaId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("MovieId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("CinemaId", "MovieId");
+
+                    b.HasIndex("MovieId");
+
+                    b.ToTable("CinemasMovies", (string)null);
+                });
+
             modelBuilder.Entity("CinemaApp.Data.Models.Movie", b =>
                 {
                     b.Property<Guid>("Id")
@@ -56,12 +112,12 @@ namespace CinemaApp.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Movies");
+                    b.ToTable("Movies", (string)null);
 
                     b.HasData(
                         new
                         {
-                            Id = new Guid("082e9ac6-9ba1-4877-a766-c8fa22412521"),
+                            Id = new Guid("aaf86ba7-1dc9-4234-bfa2-91283682f64f"),
                             Description = "Harry had a thin face, knobbly knees, black hair and bright-green eyes. He wore round glasses held together with a lot of Sellotape because of all the times Dudley had punched him on the nose. The only thing Harry liked about his own appearance was a very thin scar on his forehead which was shaped like a bolt of lightning.",
                             Director = "Mike Newel",
                             Duration = 157,
@@ -71,7 +127,7 @@ namespace CinemaApp.Data.Migrations
                         },
                         new
                         {
-                            Id = new Guid("5a31f276-ebd6-46a3-9631-90880f3a8eac"),
+                            Id = new Guid("7db2fa0b-07eb-4d1c-be7c-bf5da93e3860"),
                             Description = "The plot of The Lord of the Rings is about the war of the peoples of the fantasy world Middle-earth against a dark lord known as \"Sauron.\" At the same time they try to destroy a ring which would give Sauron a lot of power if he got it, but the only place to destroy the ring is deep into Sauron's land Mordor.",
                             Director = "Peter Jackson",
                             Duration = 178,
@@ -79,6 +135,35 @@ namespace CinemaApp.Data.Migrations
                             ReleaseDate = new DateTime(2001, 5, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Title = "Lord of the rings"
                         });
+                });
+
+            modelBuilder.Entity("CinemaApp.Data.Models.CinemaMovie", b =>
+                {
+                    b.HasOne("CinemaApp.Data.Models.Cinema", "Cinema")
+                        .WithMany("CinemaMovies")
+                        .HasForeignKey("CinemaId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.HasOne("CinemaApp.Data.Models.Movie", "Movie")
+                        .WithMany("MovieCinemas")
+                        .HasForeignKey("MovieId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("Cinema");
+
+                    b.Navigation("Movie");
+                });
+
+            modelBuilder.Entity("CinemaApp.Data.Models.Cinema", b =>
+                {
+                    b.Navigation("CinemaMovies");
+                });
+
+            modelBuilder.Entity("CinemaApp.Data.Models.Movie", b =>
+                {
+                    b.Navigation("MovieCinemas");
                 });
 #pragma warning restore 612, 618
         }

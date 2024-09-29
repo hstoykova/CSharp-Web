@@ -143,3 +143,6 @@ C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\Cin
 C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Web\bin\Debug\net8.0\CinemaApp.Data.Models.dll
 C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Web\bin\Debug\net8.0\CinemaApp.Data.pdb
 C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Web\bin\Debug\net8.0\CinemaApp.Data.Models.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Web\bin\Debug\net8.0\CinemaApp.Web.Infrastructure.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Web\bin\Debug\net8.0\CinemaApp.Web.Infrastructure.pdb
