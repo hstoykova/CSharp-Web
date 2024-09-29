@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mtk6VC8IsDD6igckEBTLUBuf9YqAJwhpirnfncKpVFg=",
+  "Hash": "DlsT02JMFjhWRTpTqnEhTeh1MmTjlBvOwzTIOmH+Dxc=",
   "Source": "CinemaApp.Web",
   "BasePath": "_content/CinemaApp.Web",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\wwwroot\\Images\\Cinema_Logo.png",
+      "SourceId": "CinemaApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\wwwroot\\",
+      "BasePath": "_content/CinemaApp.Web",
+      "RelativePath": "Images/Cinema_Logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Cinema_Logo.png"
     },
     {
       "Identity": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\wwwroot\\js\\site.js",

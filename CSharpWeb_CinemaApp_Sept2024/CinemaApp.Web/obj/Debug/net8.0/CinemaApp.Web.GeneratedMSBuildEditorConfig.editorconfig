@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\hstoykova5\Documents\GitHub\CSharp-Web\CSharpWeb_CinemaApp_Sept2024\CinemaApp.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/hstoykova5/Documents/GitHub/CSharp-Web/CSharpWeb_CinemaApp_Sept2024/CinemaApp.Web/Views/Cinema/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2luZW1hXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hstoykova5/Documents/GitHub/CSharp-Web/CSharpWeb_CinemaApp_Sept2024/CinemaApp.Web/Views/Cinema/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2luZW1hXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/hstoykova5/Documents/GitHub/CSharp-Web/CSharpWeb_CinemaApp_Sept2024/CinemaApp.Web/Views/Cinema/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2luZW1hXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

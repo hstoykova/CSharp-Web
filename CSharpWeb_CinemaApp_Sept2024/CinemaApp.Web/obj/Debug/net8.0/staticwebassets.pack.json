@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\CinemaApp.Web.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\wwwroot\\Images\\Cinema_Logo.png",
+      "PackagePath": "staticwebassets\\Images\\Cinema_Logo.png"
+    },
+    {
       "Id": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
