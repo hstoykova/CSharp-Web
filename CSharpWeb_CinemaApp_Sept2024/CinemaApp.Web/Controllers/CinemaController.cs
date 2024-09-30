@@ -1,16 +1,13 @@
-﻿using CinemaApp.Data;
-using CinemaApp.Data.Models;
-using CinemaApp.Web.ViewModels;
-using CinemaApp.Web.ViewModels.Cinema;
-using CinemaApp.Web.ViewModels.Movie;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.ChangeTracking;
-using System.Diagnostics;
-
-namespace CinemaApp.Web.Controllers
+﻿namespace CinemaApp.Web.Controllers
 {
-    public class CinemaController : Controller
+    using Microsoft.AspNetCore.Mvc;
+    using Microsoft.EntityFrameworkCore;
+    using Data;
+    using Data.Models;
+    using ViewModels.Cinema;
+    using ViewModels.Movie;
+
+    public class CinemaController : BaseController
     {
         private readonly CinemaDbContext dbContext;
 
@@ -18,6 +15,8 @@ namespace CinemaApp.Web.Controllers
         {
             this.dbContext = dbContext;
         }
+
+        [HttpGet]
         public async Task<IActionResult> Index()
         {
             IEnumerable<CinemaIndexViewModel> cinemas = await this.dbContext
@@ -26,7 +25,7 @@ namespace CinemaApp.Web.Controllers
                 {
                     Id = c.Id.ToString(),
                     Name = c.Name,
-                    Location = c.Location,
+                    Location = c.Location
                 })
                 .OrderBy(c => c.Location)
                 .ToArrayAsync();
@@ -64,8 +63,7 @@ namespace CinemaApp.Web.Controllers
         public async Task<IActionResult> Details(string? id)
         {
             Guid cinemaGuid = Guid.Empty;
-            bool isIdValid = IsCinemaIdValid(id, ref cinemaGuid);
-
+            bool isIdValid = this.IsGuidValid(id, ref cinemaGuid);
             if (!isIdValid)
             {
                 return this.RedirectToAction(nameof(Index));
@@ -77,45 +75,27 @@ namespace CinemaApp.Web.Controllers
                 .ThenInclude(cm => cm.Movie)
                 .FirstOrDefaultAsync(c => c.Id == cinemaGuid);
 
-            // Invalid (non-existing) Guid in the URL
+            // Invalid(non-existing) GUID in the URL
             if (cinema == null)
             {
                 return this.RedirectToAction(nameof(Index));
             }
 
-            CinemaDetailsViewModel viewModel = new CinemaDetailsViewModel()
+            ViewModels.Cinema.CinemaDetailsViewModel viewModel = new ViewModels.Cinema.CinemaDetailsViewModel()
             {
                 Name = cinema.Name,
                 Location = cinema.Location,
                 Movies = cinema.CinemaMovies
-                .Select(cm => new CinemaMovieViewModel()
-                {
-                    Title = cm.Movie.Title,
-                    Duration = cm.Movie.Duration
-                })
-                .ToArray()
+                    .Where(cm => cm.IsDeleted == false)
+                    .Select(cm => new CinemaMovieViewModel()
+                    {
+                        Title = cm.Movie.Title,
+                        Duration = cm.Movie.Duration,
+                    })
+                    .ToArray()
             };
 
             return this.View(viewModel);
         }
-
-        private bool IsCinemaIdValid(string? id, ref Guid cinemaGuid)
-        {
-            // Non-existing parameter in the URL
-            if (string.IsNullOrWhiteSpace(id))
-            {
-                return false;
-            }
-
-            // Invalid parameter in the URL
-            bool isGuidValid = Guid.TryParse(id, out cinemaGuid);
-            if (!isGuidValid)
-            {
-                return false;
-            }
-
-            return true;
-        }
-
     }
 }

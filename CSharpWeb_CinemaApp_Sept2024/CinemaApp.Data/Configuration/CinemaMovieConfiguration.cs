@@ -16,6 +16,10 @@ namespace CinemaApp.Data.Configuration
             builder.HasKey(cm => new { cm.CinemaId, cm.MovieId });
 
             builder
+                .Property(cm => cm.IsDeleted)
+                .HasDefaultValue(false);
+
+            builder
                 .HasOne(cm => cm.Movie)
                 .WithMany(m => m.MovieCinemas)
                 .HasForeignKey(cm => cm.MovieId)
@@ -26,7 +30,6 @@ namespace CinemaApp.Data.Configuration
                .WithMany(c => c.CinemaMovies)
                .HasForeignKey(cm => cm.CinemaId)
                .OnDelete(DeleteBehavior.Restrict);
-
         }
         
     }
