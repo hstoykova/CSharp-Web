@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{5D413E55-5D6F-4DED-B31D-8CDB1C80DCC4}|CinemaApp.Web\\CinemaApp.Web.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\csharpweb_cinemaapp_sept2024\\cinemaapp.web\\views\\cinema\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5D413E55-5D6F-4DED-B31D-8CDB1C80DCC4}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\views\\cinema\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\Views\\Cinema\\Details.cshtml",
-              "RelativeDocumentMoniker": "CinemaApp.Web\\Views\\Cinema\\Details.cshtml",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\Views\\Cinema\\Details.cshtml",
-              "RelativeToolTip": "CinemaApp.Web\\Views\\Cinema\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-30T07:02:09.132Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

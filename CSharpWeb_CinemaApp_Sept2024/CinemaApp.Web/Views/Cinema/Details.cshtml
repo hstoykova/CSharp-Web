@@ -15,7 +15,7 @@
 @if (Model.Movies.Any())
 {
     <ul class="list-group">
-        @foreach (CinemaMovieViewModel movie in Model.Movies)
+        @foreach (MovieIndexViewModel movie in Model.Movies)
         {
             <li class="list-group-item">
                 <strong>@movie.Title</strong> <br />

@@ -87,7 +87,7 @@
                 Location = cinema.Location,
                 Movies = cinema.CinemaMovies
                     .Where(cm => cm.IsDeleted == false)
-                    .Select(cm => new CinemaMovieViewModel()
+                    .Select(cm => new MovieIndexViewModel()
                     {
                         Title = cm.Movie.Title,
                         Duration = cm.Movie.Duration,

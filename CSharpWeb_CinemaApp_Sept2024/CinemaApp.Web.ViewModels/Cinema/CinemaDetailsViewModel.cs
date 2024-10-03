@@ -8,7 +8,7 @@
 
         public string Location { get; set; } = null!;
 
-        public IEnumerable<CinemaMovieViewModel> Movies { get; set; }
-            = new HashSet<CinemaMovieViewModel>();
+        public IEnumerable<MovieIndexViewModel> Movies { get; set; }
+            = new HashSet<MovieIndexViewModel>();
     }
 }
