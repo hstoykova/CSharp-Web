@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D413E55-5D6F-4DED-B31D-8CDB1C80DCC4}|CinemaApp.Web\\CinemaApp.Web.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\csharpweb_cinemaapp_sept2024\\cinemaapp.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D413E55-5D6F-4DED-B31D-8CDB1C80DCC4}|CinemaApp.Web\\CinemaApp.Web.csproj|solutionrelative:cinemaapp.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CinemaApp.Web\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\CSharpWeb_CinemaApp_Sept2024\\CinemaApp.Web\\appsettings.Development.json",
+              "RelativeToolTip": "CinemaApp.Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T17:45:57.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
