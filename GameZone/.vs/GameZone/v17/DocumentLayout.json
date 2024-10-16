@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\gamezone\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\gamezone\\models\\gameinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|solutionrelative:models\\gameinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\gamezone\\models\\deleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|solutionrelative:models\\deleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\gamezone\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\gamezone\\models\\gamedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|solutionrelative:models\\gamedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\gamezone\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\gamezone\\shared\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|solutionrelative:shared\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\gamezone\\views\\game\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|solutionrelative:views\\game\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -27,26 +55,6 @@
       "RelativeMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|solutionrelative:views\\game\\myzone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\gamezone\\models\\deleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|solutionrelative:models\\deleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\gamezone\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\gamezone\\models\\gamedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|solutionrelative:models\\gamedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\gamezone\\models\\gameinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|solutionrelative:models\\gameinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\gamezone\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\gamezone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3BDD678-E500-42A1-934E-DBAA999F510A}|GameZone.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -58,37 +66,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Views\\Game\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Game\\Details.cshtml",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Views\\Game\\Details.cshtml",
-              "RelativeToolTip": "Views\\Game\\Details.cshtml",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T08:17:22.273Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T16:56:44.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Views\\Game\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Game\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Views\\Game\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Game\\Edit.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T08:17:16.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "DeleteViewModel.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Models\\DeleteViewModel.cs",
               "RelativeDocumentMoniker": "Models\\DeleteViewModel.cs",
@@ -101,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -114,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "GameDetailsViewModel.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Models\\GameDetailsViewModel.cs",
               "RelativeDocumentMoniker": "Models\\GameDetailsViewModel.cs",
@@ -127,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "GameInfoViewModel.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Models\\GameInfoViewModel.cs",
               "RelativeDocumentMoniker": "Models\\GameInfoViewModel.cs",
@@ -141,6 +136,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Controllers\\GameController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:31:52.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidationConstants.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Shared\\ValidationConstants.cs",
+              "RelativeDocumentMoniker": "Shared\\ValidationConstants.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Shared\\ValidationConstants.cs",
+              "RelativeToolTip": "Shared\\ValidationConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:15:57.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Views\\Game\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Game\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Views\\Game\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Game\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T08:17:16.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Views\\Game\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Game\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Views\\Game\\Details.cshtml",
+              "RelativeToolTip": "Views\\Game\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T08:17:22.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "All.cshtml",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Views\\Game\\All.cshtml",
               "RelativeDocumentMoniker": "Views\\Game\\All.cshtml",
@@ -148,12 +193,11 @@
               "RelativeToolTip": "Views\\Game\\All.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T08:16:29.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T08:16:29.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Views\\Game\\Add.cshtml",
               "RelativeDocumentMoniker": "Views\\Game\\Add.cshtml",
@@ -161,12 +205,11 @@
               "RelativeToolTip": "Views\\Game\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T08:16:28.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T08:16:28.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "MyZone.cshtml",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Views\\Game\\MyZone.cshtml",
               "RelativeDocumentMoniker": "Views\\Game\\MyZone.cshtml",
@@ -174,12 +217,11 @@
               "RelativeToolTip": "Views\\Game\\MyZone.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T08:15:16.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T08:15:16.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Views\\Game\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Game\\Delete.cshtml",
@@ -187,12 +229,11 @@
               "RelativeToolTip": "Views\\Game\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T08:15:11.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T08:15:11.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -200,21 +241,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T07:41:32.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GameController.cs",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Controllers\\GameController.cs",
-              "RelativeDocumentMoniker": "Controllers\\GameController.cs",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\GameZone\\Controllers\\GameController.cs",
-              "RelativeToolTip": "Controllers\\GameController.cs",
-              "ViewState": "AgIAAAEBAAAAAAAAAAAUwIwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T07:31:52.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T07:41:32.087Z"
             }
           ]
         }
