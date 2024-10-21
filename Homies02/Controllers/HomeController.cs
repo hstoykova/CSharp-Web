@@ -1,6 +1,7 @@
 ﻿using Homies.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using System.Security.Claims;
 
 namespace Homies.Controllers
 {
@@ -8,6 +9,11 @@ namespace Homies.Controllers
     {
         public IActionResult Index()
         {
+            if (User?.Identity?.IsAuthenticated ?? false)
+            {
+                return RedirectToAction("All", "Event");
+            }
+
             return View();
         }
 

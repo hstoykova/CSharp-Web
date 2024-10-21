@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B9B0105-C038-4472-92FB-A991DC39A633}|Homies.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\homies02\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B9B0105-C038-4472-92FB-A991DC39A633}|Homies.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B9B0105-C038-4472-92FB-A991DC39A633}|Homies.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\homies02\\views\\event\\joined.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6B9B0105-C038-4472-92FB-A991DC39A633}|Homies.csproj|solutionrelative:views\\event\\joined.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6B9B0105-C038-4472-92FB-A991DC39A633}|Homies.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\homies02\\data\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B9B0105-C038-4472-92FB-A991DC39A633}|Homies.csproj|solutionrelative:data\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B9B0105-C038-4472-92FB-A991DC39A633}|Homies.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\homies02\\models\\addeventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B9B0105-C038-4472-92FB-A991DC39A633}|Homies.csproj|solutionrelative:models\\addeventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B9B0105-C038-4472-92FB-A991DC39A633}|Homies.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\homies02\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9B0105-C038-4472-92FB-A991DC39A633}|Homies.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B9B0105-C038-4472-92FB-A991DC39A633}|Homies.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\homies02\\views\\event\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6B9B0105-C038-4472-92FB-A991DC39A633}|Homies.csproj|solutionrelative:views\\event\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6B9B0105-C038-4472-92FB-A991DC39A633}|Homies.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\homies02\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9B0105-C038-4472-92FB-A991DC39A633}|Homies.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B9B0105-C038-4472-92FB-A991DC39A633}|Homies.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\homies02\\constants\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B9B0105-C038-4472-92FB-A991DC39A633}|Homies.csproj|solutionrelative:constants\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B9B0105-C038-4472-92FB-A991DC39A633}|Homies.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\homies02\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9B0105-C038-4472-92FB-A991DC39A633}|Homies.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9B0105-C038-4472-92FB-A991DC39A633}|Homies.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\homies02\\views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B9B0105-C038-4472-92FB-A991DC39A633}|Homies.csproj|solutionrelative:views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9B0105-C038-4472-92FB-A991DC39A633}|Homies.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\homies02\\models\\eventdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9B0105-C038-4472-92FB-A991DC39A633}|Homies.csproj|solutionrelative:models\\eventdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Joined.cshtml",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\Views\\Event\\Joined.cshtml",
-              "RelativeDocumentMoniker": "Views\\Event\\Joined.cshtml",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\Views\\Event\\Joined.cshtml",
-              "RelativeToolTip": "Views\\Event\\Joined.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T18:09:20.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ValidationConstants.cs",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\Constants\\ValidationConstants.cs",
-              "RelativeDocumentMoniker": "Constants\\ValidationConstants.cs",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\Constants\\ValidationConstants.cs",
-              "RelativeToolTip": "Constants\\ValidationConstants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:32:01.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddEventViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\Models\\AddEventViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\AddEventViewModel.cs",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\Models\\AddEventViewModel.cs",
-              "RelativeToolTip": "Models\\AddEventViewModel.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:28:45.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\Views\\Event\\Add.cshtml",
-              "RelativeDocumentMoniker": "Views\\Event\\Add.cshtml",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\Views\\Event\\Add.cshtml",
-              "RelativeToolTip": "Views\\Event\\Add.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T17:29:38.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\Data\\Event.cs",
-              "RelativeDocumentMoniker": "Data\\Event.cs",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\Data\\Event.cs",
-              "RelativeToolTip": "Data\\Event.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowDAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:15:33.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "EventController.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\Controllers\\EventController.cs",
               "RelativeDocumentMoniker": "Controllers\\EventController.cs",
               "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\Controllers\\EventController.cs",
               "RelativeToolTip": "Controllers\\EventController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAwwNcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T17:14:20.611Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\Data\\Event.cs",
+              "RelativeDocumentMoniker": "Data\\Event.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\Data\\Event.cs",
+              "RelativeToolTip": "Data\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:31:50.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAADwv2sAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:18:41.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAwwHAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:02:52.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\Views\\Event\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\Views\\Event\\Details.cshtml",
+              "RelativeToolTip": "Views\\Event\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T17:28:30.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\Models\\EventDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\EventDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\Homies02\\Models\\EventDetailsViewModel.cs",
+              "RelativeToolTip": "Models\\EventDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:29:35.703Z",
               "EditorCaption": ""
             }
           ]
