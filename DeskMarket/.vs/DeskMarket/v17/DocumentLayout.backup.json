@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\DeskMarket\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\deskmarket\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\deskmarket\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\deskmarket\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\deskmarket\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\deskmarket\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\deskmarket\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\deskmarket\\models\\productdeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|solutionrelative:models\\productdeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\deskmarket\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|solutionrelative:data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\deskmarket\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\deskmarket\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\deskmarket\\constants\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|solutionrelative:constants\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\deskmarket\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|c:\\users\\hstoykova5\\documents\\github\\csharp-web\\deskmarket\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99A45AA8-6E88-4B10-991A-8C33AA8AB0B8}|DeskMarket.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,24 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\DeskMarket\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\DeskMarket\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAswHAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T10:04:15.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\DeskMarket\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
@@ -71,8 +50,7 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "ViewState": "AgIAAG4AAAAAAAAAAAAUwGsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T10:02:03.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T10:02:03.958Z"
             },
             {
               "$type": "Document",
@@ -84,25 +62,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T09:19:21.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T09:19:21.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductDeleteViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\DeskMarket\\Models\\ProductDeleteViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ProductDeleteViewModel.cs",
-              "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\DeskMarket\\Models\\ProductDeleteViewModel.cs",
-              "RelativeToolTip": "Models\\ProductDeleteViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T09:00:42.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\DeskMarket\\Views\\Product\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
@@ -110,57 +74,55 @@
               "RelativeToolTip": "Views\\Product\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-19T08:55:36.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T08:55:36.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\DeskMarket\\Views\\Product\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
               "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\DeskMarket\\Views\\Product\\Edit.cshtml",
               "RelativeToolTip": "Views\\Product\\Edit.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-19T08:35:12.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\DeskMarket\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\DeskMarket\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAJoAAAAAAAAAAAAwwLkAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAowKkAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T07:07:31.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "ValidationConstants.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\DeskMarket\\Constants\\ValidationConstants.cs",
               "RelativeDocumentMoniker": "Constants\\ValidationConstants.cs",
               "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\DeskMarket\\Constants\\ValidationConstants.cs",
               "RelativeToolTip": "Constants\\ValidationConstants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T06:18:39.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T06:18:39.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\DeskMarket\\Data\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Data\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Web\\DeskMarket\\Data\\Models\\Product.cs",
               "RelativeToolTip": "Data\\Models\\Product.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswBsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T06:17:35.701Z",
               "EditorCaption": ""
